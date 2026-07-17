@@ -1,0 +1,13 @@
+{
+  "hsToolsmith": true,
+  "title": "onshape-ftc-bom",
+  "pitch": "Generate FTC-ready BOMs and cutlists from Onshape assemblies with validation.",
+  "language": "python",
+  "category": "Developer Tools",
+  "keyFeatures": [
+    "Onshape Assembly BOM export to CSV/JSON",
+    "Part metadata validation (material, thickness, vendor, quantity)",
+    "Config-aware BOM generation for variants"
+  ],
+  "targetUsers": "FTC robotics teams and mentors who design in Onshape and need repeatable manufacturing-ready BOM outputs."
+}
